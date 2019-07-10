@@ -1,0 +1,9 @@
+app/node_modules/
+app/src/temp
+wp-content/uploads
+wp-content/themes
+wp-content/wflogs
+wp-config.php
+.htaccess
+.idea
+.vscode
