@@ -49,7 +49,7 @@ gulp.task('css', function() {
 	.pipe(autoprefixer())
 	.pipe(cssnano({zindex: false}))
 	.pipe(concat('style.css'))
-	.pipe(gulp.dest(paths.dest));
+	.pipe(gulp.dest(paths.dest + 'css'));
 });
 
 gulp.task('js', function() {

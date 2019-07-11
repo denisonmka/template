@@ -1,0 +1,44 @@
+{
+  "name": "brafec",
+  "version": "1.0.0",
+  "description": "brafec",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Marcelo Sabino",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglify-es": "^1.0.1",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.6",
+    "animate.css": "^3.5.2",
+    "browser-sync": "^2.18.8",
+    "chart.js": "^2.7.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-changed": "^3.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-git": "^2.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-sass": "^4.0.1",
+    "jquery": "^3.2.1",
+    "node-sass": "^4.6.0",
+    "normalize.css": "^8.0.0",
+    "slick-carousel": "^1.8.1",
+    "vanilla-masker": "^1.2.0"
+  }
+}
